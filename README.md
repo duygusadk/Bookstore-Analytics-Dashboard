@@ -42,6 +42,13 @@ The project focuses on data modeling, interactive visualizations, and the use of
 
   <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/37237b7d-2647-4459-af75-42f43d9686a7" />
 
+### 5. Tooltip
+
+<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/e224b85b-6b01-44a1-939e-2f3d8152d3ff" />
+
+### 6. DrillThrough
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fe7ba4b8-544f-4876-9a55-ad123a575eb1" />
 
 
 ## Power BI Features
